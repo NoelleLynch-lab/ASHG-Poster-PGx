@@ -2,7 +2,7 @@
 
 **Pharmocogenomics in the PICU: An exome sequencing study**
 
-N. Lynch, N. T. Elefant, J. Beckett, A. Geneslaw, V. Jobanputra, Z. Ren, D. S. Hughes, A. Revah-Politi, J. E. Motelow
+N. Lynch, N. T. Elefant, J. Beckett, A. Geneslaw, V. Jobanputra, Z. Ren, D. S. Hughes, C. Aguila Beton, A. Revah-Politi, J. E. Motelow
 
 <br />
 
