@@ -29,3 +29,6 @@ Anya Revah-Politi, MS, CGC ar3594@cumc.columbia.edu
 3. Sangkuhl et al. (2020). Pharmacogenomics Clinical Annotation Tool (PharmCAT). Clinical pharmacology and therapeutics, 107(1), 203–210.
 
 5. Clinical Pharmacogenetics Implementation Consortium (CPIC®). https://cpicpgx.org/ [2023]
+
+6. Lamer A, Laurent G, Pelayo S, et al.. Exploring patient path through sankey diagram: a proof of concept. Stud Health Technol Inform. 2020;270:218–22.
+ 
