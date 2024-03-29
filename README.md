@@ -9,7 +9,7 @@ N. Lynch, N. T. Elefant, J. Beckett, A. Geneslaw, V. Jobanputra, Z. Ren, D. S. H
 
 *Author contact information:*
 
-Noelle Lynch, BS nal2178@cumc.columbia.edu ; www.linkedin.com/in/noelle-lynch
+Noelle Lynch, MS Candidate nal2178@cumc.columbia.edu ; www.linkedin.com/in/noelle-lynch
 
 Joshua Motelow, MD, PhD jm4279@cumc.columbia.edu
 
